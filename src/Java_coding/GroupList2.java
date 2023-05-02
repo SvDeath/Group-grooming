@@ -13,8 +13,22 @@ public class GroupList2 {
 
         char ok = 9989;
         char fail = 9899;
+        for (String each : names) {
+            if (each.equalsIgnoreCase("Maria GabRiela") || each.equalsIgnoreCase("Ganchimeg") || each.startsWith("Mikita") || each.startsWith("Aiidaa")) {
+                System.out.println("Editional Info needed  \"" + each + "\"" + fail);
+            } else {
+                System.out.println(each + ok);
+            }
 
+        }
+
+        int i = 0;
+
+        while (i < 5) {
+            System.out.println("\t\t\t\t\t\tMake your changes in main code");
+            i++;
 
         }
     }
+}
 
