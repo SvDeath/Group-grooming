@@ -6,6 +6,8 @@ import java.util.Arrays;
 public class GroupList {
     public static void main(String[] args) {
 
+        // additional info from Mykyta
+
 
         ArrayList<String> names = new ArrayList<>();
         names.addAll(Arrays.asList("Roman Aliiev", "Aiidaa Stenkova", "Mikita Gannota", "Kamal Khan Daadman", "Oyuchimeg Burentogtohk", "Maria Gabriela", "Deonis Chiperi", "Taha Ali", "Ganchimeg"));
