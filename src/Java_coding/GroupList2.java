@@ -24,10 +24,16 @@ public class GroupList2 {
 
         int i = 0;
 
-        while (i < 5) {
-            System.out.println("\t\t\t\t\t\tMake your changes in main code");
+        while (i < 2) {
+            System.out.println("\t\tGreat Job!");
             i++;
 
+        }
+
+        int a = 0;
+        while(a<1){
+            System.out.println("Lets be the best team in Cydeo B29!");
+a++;
         }
     }
 }
