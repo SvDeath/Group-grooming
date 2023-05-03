@@ -3,5 +3,3 @@
 // Another comment from Mykyta
 
 //Another comment from Aida
-
-//Another comment from Oyu
