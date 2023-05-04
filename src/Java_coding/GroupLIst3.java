@@ -17,7 +17,7 @@ public class GroupLIst3 {
 
     public static void main(String[] args) {
 
-        // additional info from Mykyta
+        // check new info from Daadman
 
 
         ArrayList<String> names = new ArrayList<>();
