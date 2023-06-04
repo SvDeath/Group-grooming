@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    background-image: url('C:\Users\Owner\OneDrive\Desktop\HTML class\Roman\Image\IMG_0679.JPG');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.hug {
+    height: 52px;
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction:row-reverse;
+    align-items: center;
+    gap: 50px;
+     
+}
+.Intro{
+    width: 1280px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: beige;
+    
+    display: flex;
+    gap: 50px;
+    padding: 30px;
+}
+.Intro_Img{
+    height: 100px;
+    width: 150px;
+}
+.headLine1{
+    width: 1280px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+
+}
+.hobby{
+    width: 1280px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    display: flex;
+     gap: 20px;
+    padding: 30px;
+    text-align: center;
+    
+}
